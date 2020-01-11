@@ -103,7 +103,8 @@ vim2:
   fuchsia:
     build_fuchsia: BuildFuchsia.html
   hardware:
-    download: HardwareDocs.html
+    Documentation: HardwareDocs.html
+    Case: HardwareCase.html
   firmware:
     android_image: FirmwareAndroid.html
     ubuntu_image: FirmwareUbuntu.html
